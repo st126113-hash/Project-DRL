@@ -1,4 +1,4 @@
-# Project-DRL: Shooter-v0 Hierarchical PPO Experiments
+# Project-DRL: Shooter Hierarchical PPO Experiments
 
 This repository contains Deep Reinforcement Learning (DRL) experiments for the `Shooter-v0` environment.  
 The project compares several training budgets and stores notebooks, checkpoints, logs, outputs, and exported videos for each run.
