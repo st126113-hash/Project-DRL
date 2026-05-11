@@ -1,0 +1,5 @@
+model,timesteps,mean_score,max_score,min_score,mean_reward,mean_fires,mean_steps,mean_hit_rate,eval_episodes,action6_used
+PPO,25000,0.0,0.0,0.0,-110.29348057798359,0.0,229.0,0.0,5,False
+PPO,50000,0.0,0.0,0.0,-110.29348057798359,0.0,229.0,0.0,5,False
+PPO,75000,0.0,0.0,0.0,-110.29348057798359,0.0,229.0,0.0,5,False
+PPO,100000,0.0,0.0,0.0,-110.29348057798359,0.0,229.0,0.0,5,False
