@@ -1,0 +1,6 @@
+model,episode,seed,score,reward,fires,steps,hit_rate,action6_used
+Hierarchical PPO,1,7000,18.0,-85.13275426498859,1,229,1.0,False
+Hierarchical PPO,2,7001,18.0,-85.32290858476166,1,229,1.0,False
+Hierarchical PPO,3,7002,0.0,-108.06926682561686,0,229,0.0,False
+Hierarchical PPO,4,7003,18.0,-85.32738595238166,1,229,1.0,False
+Hierarchical PPO,5,7004,18.0,-85.42961202968071,1,229,1.0,False
