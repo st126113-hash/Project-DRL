@@ -27,13 +27,8 @@ Each experiment folder follows a similar structure:
 checkpoints/               Saved model checkpoints
 notebooks/                 Training and evaluation notebooks
 outputs/                   Generated outputs and videos
-reference/                 Reference files or supporting materials
-sample_uploaded_results/   Sample exported results
 shooter/                   Shooter-v0 environment code
 training_logs/             CSV logs and evaluation summaries
-README_*.md                Budget-specific README
-RUN_ORDER_AND_ARTIFACTS.md Run order and artifact notes
-requirements_notebook.txt  Notebook dependencies
 ```
 
 ## Main methods
@@ -62,26 +57,6 @@ Some notebooks include video export for:
 - Comparison videos across methods
 
 Video export requires the local render path to work correctly with **Pygame**, **PyOpenGL**, and the Shooter-v0 environment.
-
-## How to run
-
-Install dependencies:
-
-```bash
-pip install -r requirements_notebook.txt
-```
-
-Then open the notebook inside the selected budget folder:
-
-```text
-notebooks/
-```
-
-Run the cells in order, following the instructions in:
-
-```text
-RUN_ORDER_AND_ARTIFACTS.md
-```
 
 ## Notes
 
