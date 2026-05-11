@@ -87,3 +87,13 @@ RUN_ORDER_AND_ARTIFACTS.md
 
 This repository is organized mainly for experiment evidence and course submission.  
 The separate budget folders allow the same workflow to be compared under different training lengths.
+
+---
+
+## Authors
+Natthanon Narongsaksakul (st126113)
+GitHub: https://github.com/st126113-hash
+
+Waranon Neamtuptim (st125934)
+GitHub: https://github.com/Waranon021
+
