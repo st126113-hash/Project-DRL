@@ -1,0 +1,6 @@
+model,episode,seed,score,reward,fires,steps,hit_rate,action6_used
+Dueling Double DQN,1,7000,-22.0,-132.2843844756456,11,229,0.0,False
+Dueling Double DQN,2,7001,-12.0,-122.2889937022089,6,229,0.0,False
+Dueling Double DQN,3,7002,-22.0,-132.30824379533578,11,229,0.0,False
+Dueling Double DQN,4,7003,-14.0,-124.28627048367912,7,229,0.0,False
+Dueling Double DQN,5,7004,-50.0,-160.29951043304848,25,229,0.0,False
