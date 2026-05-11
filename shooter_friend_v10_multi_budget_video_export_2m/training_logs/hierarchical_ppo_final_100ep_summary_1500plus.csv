@@ -1,0 +1,2 @@
+episodes,target_score,min_score,mean_score,median_score,max_score,success_rate_1500,fail_count_below_1500,mean_fires,mean_steps
+100,1500.0,16.0,930.9,928.0,2272.0,0.31,69,0.0,2380.79

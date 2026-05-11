@@ -1,0 +1,5 @@
+model,mean_score,max_score,min_score,total_score,mean_reward,mean_fires,mean_steps,mean_hit_rate,action6_used
+A2C,0.0,0.0,0.0,0.0,-110.29348057798359,0.0,229.0,0.0,False
+Dueling Double DQN,-10.0,2.0,-28.0,-50.0,-120.24712500135084,11.0,229.0,0.05858585858585859,False
+Hierarchical PPO,543.2,1656.0,22.0,2716.0,581.5768966817345,58.4,1435.2,0.5366299469604243,False
+PPO,0.0,0.0,0.0,0.0,-110.29348057798359,0.0,229.0,0.0,False
